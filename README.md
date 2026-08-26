@@ -13,7 +13,7 @@ Rather than relying on black-box toolboxes, these scripts were built to understa
 | **Conjugate Gradient Backpropagation** | `Ch12_CGBP.mlx` | Neural network training using conjugate gradient optimization. |
 | **Levenberg–Marquardt Backpropagation** | `Ch12_LMBP.mlx` | Hybrid optimization blending gradient descent and the Gauss-Newton method. |
 | **Gauss–Newton Bayesian Regularization** | `Ch13_GNBR.mlx` | Regularization framework to prevent overfitting and improve model generalization. |
-| **Locally Recurrent Multi-Layer Perception** | `Ch14_RTRL.mlx` | Recurrent neural network training using the Real-Time Recurrent Learning algorithm. |
+| **Real-Time Recurrent Learning** | `Ch14_RTRL.mlx` | Online training algorithm for recurrent neural networks. |
 
 ---
 
