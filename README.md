@@ -10,12 +10,10 @@ Rather than relying on black-box toolboxes, these scripts were built to understa
 
 | Algorithm | File | Description |
 | :--- | :--- | :--- |
-| **Conjugate Gradient Backpropagation** | `CGBP.mlx` | Gradient descent optimization using conjugate directions for faster convergence. |
-| **Golden Section Search** | `GoldenSectionSearch.mlx` | Bracketed line-search technique used for optimal step-size determination. |
-| **Levenberg–Marquardt Backpropagation** | `LMBP.mlx` | Hybrid optimization blending gradient descent and the Gauss-Newton method. |
-| **Gauss–Newton Bayesian Regularization** | `GNBR.mlx` | Regularization framework to prevent overfitting and improve model generalization. |
-| **Regularization** | `Regularization.mlx` | Core implementations of weight penalty and complexity control techniques. |
-| **Real-Time Recurrent Learning** | `RTRL.mlx` | Online learning algorithm for sequential training in recurrent architectures. |
+| **Conjugate Gradient Backpropagation** | `Ch12_CGBP.mlx` | Gradient descent optimization using conjugate directions. |
+| **Levenberg–Marquardt Backpropagation** | `Ch12_LMBP.mlx` | Hybrid optimization blending gradient descent and the Gauss-Newton method. |
+| **Gauss–Newton Bayesian Regularization** | `Ch13_GNBR.mlx` | Regularization framework to prevent overfitting and improve model generalization. |
+| **Locally Recurrent Multi-Layer Perception** | `Ch14_RTRL.mlx` | Recurrent neural network training using the Real-Time Recurrent Learning algorithm. |
 
 ---
 
