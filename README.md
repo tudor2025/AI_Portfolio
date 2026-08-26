@@ -21,3 +21,9 @@ Rather than relying on black-box toolboxes, these scripts were built to understa
 
 * **Language:** MATLAB
 * **Format:** Interactive MATLAB Live Scripts (`.mlx`) containing code, equations, and visual outputs.
+
+## Reference
+
+The implementations in this repository are based on:
+
+> M. T. Hagan, H. B. Demuth, M. H. Beale, and O. De Jesús, **Neural Network Design**, 2nd ed., 2014.
